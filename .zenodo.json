@@ -1,0 +1,9 @@
+{
+  "title": "Agent SDK Lab",
+  "description": "Lab 3 of an AI Engineering curriculum: one triage agent built four ways (a hand-written loop, LangGraph, the OpenAI Agents SDK and the Claude Agent SDK) on a shared tool core, compared with one framework-neutral eval covering outcome, trajectory, safety and completion, with negative controls. Three implementations run offline on a shared deterministic fake.",
+  "upload_type": "software",
+  "creators": [{"name": "Jadhav, Kavita", "affiliation": "K11 Software Solutions"}],
+  "license": "MIT",
+  "keywords": ["ai-engineering", "agents", "claude-agent-sdk", "openai-agents-sdk", "langgraph", "tool-calling", "llm-evaluation", "claude"],
+  "notes": "Code is licensed under MIT; the written material (articles/) is licensed under CC BY 4.0. Kestrel Labs is fictional."
+}

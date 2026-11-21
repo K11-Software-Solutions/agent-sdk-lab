@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or its articles, please cite it as below."
+type: software
+title: "Agent SDK Lab"
+abstract: "Lab 3 of an AI Engineering curriculum: one triage agent built four ways (a hand-written loop, LangGraph, the OpenAI Agents SDK and the Claude Agent SDK) on a shared tool core, compared with one framework-neutral eval covering outcome, trajectory, safety and completion, with negative controls. Three implementations run offline on a shared deterministic fake."
+authors:
+  - family-names: Jadhav
+    given-names: Kavita
+    affiliation: K11 Software Solutions
+repository-code: "https://github.com/K11-Software-Solutions/agent-sdk-lab"
+url: "https://github.com/K11-Software-Solutions/agent-sdk-lab"
+version: "1.0.0"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - ai-engineering
+  - agents
+  - claude-agent-sdk
+  - openai-agents-sdk
+  - langgraph
+  - tool-calling
+  - llm-evaluation
+  - claude
+# After the first Zenodo release, add the concept DOI:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: Concept DOI (all versions)
